@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Robert 👋
 
-<!--
-**TOTERTO/TOTERTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **beginner Java developer** learning programming step by step through real projects and hands-on practice.
 
-Here are some ideas to get you started:
+This GitHub profile is my **learning journey** — not everything is perfect, but everything here is part of improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☕ What I'm Learning
+
+- Java fundamentals
+- Object-Oriented Programming (OOP)
+- Problem solving & clean code basics
+- Simple desktop applications (Swing)
+- Git & GitHub workflow
+
+---
+
+## 🧠 How I Learn
+
+- Build small projects
+- Break things and fix them
+- Improve old code as I learn new concepts
+- Focus on understanding, not rushing
+
+---
+
+## 📂 What You'll Find Here
+
+- Beginner-friendly Java projects
+- Practice exercises
+- Small apps made while learning
+- Experiments and refactors
+
+Each repository reflects my progress at that moment.
+
+---
+
+## 🎯 Goals
+
+- Become confident with Java
+- Build real, usable applications
+- Prepare for a junior developer role
+  
+---
+
+## 📈 Current Focus
+
+- Core Java
+- Writing cleaner, more readable code
+- Turning ideas into working programs
+
+---
+
+Thanks for stopping by 🙂
