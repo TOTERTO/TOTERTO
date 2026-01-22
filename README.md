@@ -16,15 +16,6 @@ This GitHub profile is my **learning journey** — not everything is perfect, bu
 
 ---
 
-## 🧠 How I Learn
-
-- Build small projects
-- Break things and fix them
-- Improve old code as I learn new concepts
-- Focus on understanding, not rushing
-
----
-
 ## 📂 What You'll Find Here
 
 - Beginner-friendly Java projects
